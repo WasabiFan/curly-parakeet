@@ -1,0 +1,9 @@
+markdown: kramdown
+permalink: pretty
+exclude: [Gemfile, Gemfile.lock]
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-github-metadata
+
+repository: WasabiFan/curly-parakeet
